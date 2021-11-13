@@ -1,2 +1,2 @@
 # excel-challenge
-Monash Bootcamp WK1 Assignment
+Monash Data Bootcamp Week 1 Assignment
